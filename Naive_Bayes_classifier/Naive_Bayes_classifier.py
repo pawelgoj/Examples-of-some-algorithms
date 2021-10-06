@@ -7,7 +7,6 @@
 
 import json
 from scipy.stats import norm
-import matplotlib.pyplot as plt
 import numpy as np
 
 
