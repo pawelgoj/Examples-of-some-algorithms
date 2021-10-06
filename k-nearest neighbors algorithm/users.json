@@ -1,0 +1,402 @@
+[
+    {
+        "user": "Sylwia Bazyli",
+        "books": [
+            {
+                "book": "A Journey to the Center of the Earth",
+                "rating": 6,
+                "kind": "sf"
+            },
+            {
+                "book": "The War of the Worlds",
+                "rating": 9,
+                "kind": "sf"
+            },
+            {
+                "book": "When Worlds Collide",
+                "rating": 4,
+                "kind": "sf"
+            }
+        ]
+    },
+    {
+        "user": "Janusz Salomea",
+        "books": [
+            {
+                "book": "Earth Abides",
+                "rating": 10,
+                "kind": "sf"
+            },
+            {
+                "book": "The Long Tomorrow",
+                "rating": 2,
+                "kind": "sf"
+            },
+            {
+                "book": "Ring Around the Sun",
+                "rating": 3,
+                "kind": "sf"
+            }
+        ]
+    },
+    {
+        "user": "Kasandra Lechosława",
+        "books": [
+            {
+                "book": "Earth Abides",
+                "rating": 8,
+                "kind": "sf"
+            },
+            {
+                "book": "Ivanhoe by Walter Scott",
+                "rating": 2,
+                "kind": "adventurous"
+            },
+            {
+                "book": "Ring Around the Sun",
+                "rating": 5,
+                "kind": "sf"
+            },
+            {
+                "book": "The Long Tomorrow",
+                "rating": 4,
+                "kind": "sf"
+            },
+            {
+                "book": "Don Quixote by Miguel de Cervantes",
+                "rating": 5,
+                "kind": "sf"
+            }
+        ]
+    },
+    {
+        "user": "Magda Greta",
+        "books": [
+            {
+                "book": "Ring Around the Sun",
+                "rating": 5,
+                "kind": "sf"
+            },
+            {
+                "book": "The Long Tomorrow",
+                "rating": 6,
+                "kind": "sf"
+            },
+            {
+                "book": "Don Quixote by Miguel de Cervantes",
+                "rating": 10,
+                "kind": "adventurous"
+            }
+        ]
+    },
+    {
+        "user": "Nina Katarzyna",
+        "books": [
+            {
+                "book": "Don Quixote by Miguel de Cervantes",
+                "rating": 10,
+                "kind": "adventurous"
+            },
+            {
+                "book": "King Solomon's Mines by H. Rider Haggard and A. C. Michael",
+                "rating": 2,
+                "kind": "adventurous"
+            },
+            {
+                "book": "The Chrysalids",
+                "rating": 10,
+                "kind": "sf"
+            },
+            {
+                "book": "The Three Musketeers by Alexandre Dumas",
+                "rating": 7,
+                "kind": "adventurous"
+            },
+            {
+                "book": "Treasure Island by Robert Louis Stevenson",
+                "rating": 8,
+                "kind": "adventurous"
+            }
+        ]
+    },
+    {
+        "user": "Renata Władysław",
+        "books": [
+            {
+                "book": "Treasure Island by Robert Louis Stevenson",
+                "rating": 10,
+                "kind": "adventurous"
+            },
+            {
+                "book": "Mission of Gravity",
+                "rating": 7,
+                "kind": "sf"
+            },
+            {
+                "book": "The Count of Monte Cristo by Alexandre Dumas",
+                "rating": 9,
+                "kind": "adventurous"
+            },
+            {
+                "book": "The Chrysalids",
+                "rating": 5,
+                "kind": "sf"
+            },
+            {
+                "book": "Ivanhoe by Walter Scott",
+                "rating": 8,
+                "kind": "adventurous"
+            }
+        ]
+    },
+    {
+        "user": "Sonia Maksym",
+        "books": [
+            {
+                "book": "The Three Musketeers by Alexandre Dumas",
+                "rating": 6,
+                "kind": "adventurous"
+            },
+            {
+                "book": "Don Quixote by Miguel de Cervantes",
+                "rating": 7,
+                "kind": "adventurous"
+            },
+            {
+                "book": "Mission of Gravity",
+                "rating": 6,
+                "kind": "sf"
+            },
+            {
+                "book": "King Solomon's Mines by H. Rider Haggard and A. C. Michael",
+                "rating": 5,
+                "kind": "adventurous"
+            },
+            {
+                "book": "The War of the Worlds",
+                "rating": 9,
+                "kind": "sf"
+            },
+            {
+                "book": "Odd John",
+                "rating": 10,
+                "kind": "sf"
+            },
+            {
+                "book": "Nineteen Eighty-Four",
+                "rating": 7,
+                "kind": "sf"
+            }
+        ]
+    },
+    {
+        "user": "Mira Nina",
+        "books": [
+            {
+                "book": " A VISIT FROM THE GOON SQUAD",
+                "rating": 6,
+                "kind": "novels"
+            },
+            {
+                "book": " THE THOUSAND AUTUMNS OF JACOB DE ZOET",
+                "rating": 8,
+                "kind": "novels"
+            },
+            {
+                "book": "TRAIN DREAMS",
+                "rating": 9,
+                "kind": "novels"
+            }
+        ]
+    },
+    {
+        "user": "Seweryn Teofil",
+        "books": [
+            {
+                "book": "Mission of Gravity",
+                "rating": 7,
+                "kind": "sf"
+            }
+        ]
+    },
+    {
+        "user": "Kunegunda Pelagia",
+        "books": [
+            {
+                "book": "A VISIT FROM THE GOON SQUAD",
+                "rating": 6,
+                "kind": "novels"
+            },
+            {
+                "book": "THE THOUSAND AUTUMNS OF JACOB DE ZOET",
+                "rating": 5,
+                "kind": "sf"
+            },
+            {
+                "book": "THE BUDDHA IN THE ATTIC",
+                "rating": 7,
+                "kind": "sf"
+            }
+        ]
+    },
+    {
+        "user": "Cezary Waleria",
+        "books": [
+            {
+                "book": "Ring Around the Sun",
+                "rating": 8,
+                "kind": "sf"
+            },
+            {
+                "book": "A VISIT FROM THE GOON SQUAD",
+                "rating": 5,
+                "kind": "novels"
+            },
+            {
+                "book": "TRAIN DREAMS ",
+                "rating": 7,
+                "kind": "novels"
+            }
+        ]
+    },
+    {
+        "user": "Marzanna Jaga",
+        "books": [
+            {
+                "book": "TRAIN DREAMS",
+                "rating": 8,
+                "kind": "novels"
+            },
+            {
+                "book": "THE BUDDHA IN THE ATTIC",
+                "rating": 7,
+                "kind": "novels"
+            },
+            {
+                "book": "A VISIT FROM THE GOON SQUAD",
+                "rating": 4,
+                "kind": "novels"
+            },
+            {
+                "book": "It Ends With Us",
+                "rating": 9,
+                "kind": "romance"
+            },
+            {
+                "book": "The Proposal",
+                "rating": 8,
+                "kind": "romance"
+            }
+        ]
+    },
+    {
+        "user": "Laura Marcin",
+        "books": [
+            {
+                "book": "It Ends With Us",
+                "rating": 6,
+                "kind": "romance"
+            },
+            {
+                "book": "The Proposal",
+                "rating": 4,
+                "kind": "romance"
+            },
+            {
+                "book": "Vision In White",
+                "rating": 9,
+                "kind": "romance"
+            }
+        ]
+    },
+    {
+        "user": "Wioletta Sybilla",
+        "books": [
+            {
+                "book": "It Ends With Us",
+                "rating": 6,
+                "kind": "romance"
+            },
+            {
+                "book": "Beautiful Disaster",
+                "rating": 5,
+                "kind": "romance"
+            },
+            {
+                "book": "The Proposal",
+                "rating": 4,
+                "kind": "romance"
+            }
+        ]
+    },
+    {
+        "user": "Zuzanna Blanka",
+        "books": [
+            {
+                "book": "Vision In White",
+                "rating": 10,
+                "kind": "romance"
+            }
+        ]
+    },
+    {
+        "user": "Kunegunda Bonifacy",
+        "books": [
+            {
+                "book": "A Journey to the Center of the Earth",
+                "rating": 7,
+                "kind": "sf"
+            },
+            {
+                "book": "The War of the Worlds",
+                "rating": 6,
+                "kind": "sf"
+            },
+            {
+                "book": "The Proposal",
+                "rating": 7,
+                "kind": "romance"
+            }
+        ]
+    },
+    {
+        "user": "Anka Klaudia",
+        "books": [
+            {
+                "book": "Beautiful Disaster",
+                "rating": 10,
+                "kind": "romance"
+            }
+        ]
+    },
+    {
+        "user": "Pola Czcibor",
+        "books": [
+            {
+                "book": "Beautiful Disaster",
+                "rating": 7,
+                "kind": "romance"
+            },
+            {
+                "book": "Vision In White",
+                "rating": 6,
+                "kind": "romance"
+            },
+            {
+                "book": "The Hating Game",
+                "rating": 5,
+                "kind": "romance"
+            },
+            {
+                "book": "Brave New World",
+                "rating": 6,
+                "kind": "sf"
+            },
+            {
+                "book": "The Three Musketeers by Alexandre Dumas",
+                "rating": 10,
+                "kind": "adventurous"
+            }
+        ]
+    }
+]

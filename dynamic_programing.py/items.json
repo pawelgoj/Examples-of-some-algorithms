@@ -1,0 +1,10 @@
+{
+    "item_1": {"value": 12, "space": 4},
+    "item_2": {"value": 9, "space": 5},
+    "item_3": {"value": 7, "space": 4},
+    "item_4": {"value": 1, "space": 2},
+    "item_5": {"value": 10, "space": 1},
+    "item_6": {"value": 11, "space": 2},
+    "item_7": {"value": 6, "space": 3},
+    "item_8": {"value": 12, "space": 1}
+}
