@@ -1,0 +1,18 @@
+[
+    {"customer": "customer1", "salary": 2000, "age": 20, "car": false},
+    {"customer": "customer2", "salary": 3000, "age": 25, "car": false},
+    {"customer": "customer3", "salary": 4000, "age": 30, "car": true},
+    {"customer": "customer4", "salary": 2500, "age": 22, "car": false},
+    {"customer": "customer5", "salary": 3000, "age": 20, "car": false},
+    {"customer": "customer6", "salary": 2000, "age": 25, "car": false},
+    {"customer": "customer7", "salary": 4000, "age": 23, "car": true},
+    {"customer": "customer8", "salary": 2500, "age": 40, "car": true},
+    {"customer": "customer9", "salary": 3500, "age": 30, "car": true},
+    {"customer": "customer10", "salary": 6000, "age": 24, "car": true},
+    {"customer": "customer11", "salary": 7000, "age": 22, "car": true},
+    {"customer": "customer12", "salary": 3000, "age": 30, "car": true},
+    {"customer": "customer13", "salary": 2000, "age": 18, "car": false}
+
+]
+
+
